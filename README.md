@@ -7,3 +7,5 @@ PdfParser, a standalone PHP library, provides various tools to extract data from
 This library requires PHP 7.1+ since v1. You can install it via Composer:
 
    composer require smalot/pdfparser
+
+**copy the downloaded file into the controllers folder of application in codeigniter 3.**
